@@ -89,6 +89,10 @@ PRODUCT_VENDOR_PROPERTIES += \
 # Remove Packages for Dolby Support
 PRODUCT_PACKAGES += \
     RemovePackagesDolby
+    
+# LunarisDolby
+PRODUCT_PACKAGES += \
+    LunarisDolby
 
 # DSP Volume Synchronizer
 PRODUCT_PACKAGES += \
